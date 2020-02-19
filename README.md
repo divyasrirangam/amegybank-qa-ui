@@ -2,7 +2,7 @@
 ### Setup:
 * Install [Java 8](http://www.oracle.com/technetwork/java/javase/overview/java8-2100321.html)
 * Install Maven [Maven](https://maven.apache.org/)
-* Set JAVA_HOME and MAVEN_HOME
+* Set JAVA_HOME and MAVEN_HOME as env
 * Install Cucumber eclipse plugin- http://cucumber.github.com/cucumber-eclipse/update-site
 
 ### Exceute Test
